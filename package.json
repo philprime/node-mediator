@@ -1,0 +1,18 @@
+{
+  "name": "node-mediator",
+  "version": "0.0.1",
+  "description": "Simple mediator for Typescript Node.JS applications",
+  "main": "index.js",
+  "repository": "https://github.com/philprime/node-mediator",
+  "author": "Philip Niedertscheider <dev@philpri.me>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript-ioc": "^3.2.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
